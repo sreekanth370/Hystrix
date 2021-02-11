@@ -4,6 +4,9 @@ addons:
       - lynx
 
 language: java
+arch:
+  - amd64
+  - ppc64le
 sudo: false
 
 jdk:
